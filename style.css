@@ -89,6 +89,7 @@ h1 {
   letter-spacing: 2px;
   transition: all 0.3s ease;
   border: 2px solid #fff;
+  border-radius: 4px;
 }
 
 .portfolio-btn:hover {
@@ -115,6 +116,7 @@ h1 {
   letter-spacing: 2px;
   transition: all 0.3s ease;
   border: 2px solid #fff;
+  border-radius: 4px;
 }
 
 .github-btn:hover {
@@ -368,6 +370,7 @@ body.light-mode .mode-toggle::after {
   cursor: pointer;
   transition: background 0.3s;
   margin: 1rem 0;
+  border-radius: 4px;
 }
 
 .nav-btn:hover {
@@ -430,6 +433,7 @@ body.light-mode .mode-toggle::after {
   letter-spacing: 1px;
   border: 2px solid #fff;
   transition: all 0.3s ease;
+  border-radius: 4px;
 }
 
 .project-item a.project-btn,
@@ -548,6 +552,7 @@ body.light-mode .social-links a {
   letter-spacing: 2px;
   border: 2px solid #fff;
   transition: all 0.3s ease;
+  border-radius: 4px;
 }
 
 .download-btn:hover {
